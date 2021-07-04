@@ -12,7 +12,10 @@ body {
 h1 {
   font-size: 50px;
 }
-section {
+/* section {
+
+} */
+.flexible-container {
   display: flex;
   margin-bottom: 100px;
 }
