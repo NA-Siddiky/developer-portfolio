@@ -72,6 +72,12 @@ h2 {
   font: weight 700px;
   padding: 10px 40px;
   border-radius: 10px;
+
+  /* background: linear-gradient(#ccc, #ccc) padding-box, linear-gradient(to right, #9c20aa, #fb3570) border-box;
+  color: #313149;
+  padding: 10px;
+  border-left: 8px solid transparent;
+  border-radius: 15px; */
 }
 footer p {
   text-align: center;
